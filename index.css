@@ -1,7 +1,8 @@
 body{
-    background: #f3d7f3;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to bottom, #f7cee6, #f3ddf2);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to bottom, #facef4, #f5b9b9);
+    background: #f7f4f7;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to bottom, #f7f3f5, #f788f7);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to bottom, #f5e6f3, #fadede);
+margin: auto;
 }
 
 
@@ -15,7 +16,8 @@ footer {
     padding: 55px 50px;
     margin-top: 80px;
     bottom: 0;
-    color: #fff
+    color: #fff;
+    
 }
 
 .footer-navigation h3 {
@@ -252,3 +254,7 @@ h4 {
 .slick-slide {
     margin: 10px
 }
+
+
+
+
